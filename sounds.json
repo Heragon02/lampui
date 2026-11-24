@@ -1,0 +1,6 @@
+{
+  "button_hover": { "sounds": [ { "name": "lampui:button_hover", "volume": 0.5 } ] },
+  "button_click": { "sounds": [ { "name": "lampui:button_click", "volume": 0.7 } ] },
+  "menu_day":     { "sounds": [ { "name": "lampui:menu_day", "stream": true, "volume": 0.8 } ] },
+  "menu_night":   { "sounds": [ { "name": "lampui:menu_night", "stream": true, "volume": 0.8 } ] }
+}

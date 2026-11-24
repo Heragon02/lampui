@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.lampui.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClickableWidgetMixin",
+    "MusicTrackerMixin",
+    "PressableWidgetMixin",
+    "ScreenMixin",
+    "SliderWidgetMixin",
+    "SplashOverlayMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
